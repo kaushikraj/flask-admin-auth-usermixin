@@ -1,4 +1,5 @@
 This example shows how to integrate Flask-Login authentication with Flask-Admin using UserMixin.
+This example is a modifictation of Flask-Login authentication with Flask-Admin using SQLAlchemy (https://github.com/flask-admin/flask-admin.git).
 
 To run this example:
 
