@@ -1,0 +1,7 @@
+*.pyc
+*.pyo
+app.db
+search.db
+env
+.idea
+.DS_Store
